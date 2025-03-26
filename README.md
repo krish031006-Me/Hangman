@@ -19,7 +19,7 @@ Command-line interface (CLI)
 
 Clone the repository:
 
-git clone https://github.com/KrishDev/Hangman.git
+git clone https://github.com/krish031006-Me/Hangman.git
 cd Hangman
 
 Run the game:
